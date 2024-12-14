@@ -16,7 +16,7 @@ class App{
             b.予約一覧場所にthis.when等を使って記載
             ➡pythonアプリ　TaskSchedulerが読み取れるように工夫
         */
-        
+        alert("A");
     }
 
 
